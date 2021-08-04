@@ -4,7 +4,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Graduado em **SISTEMAS PARA INTERNET** na <a href="https://www.iesp.edu.br/">UNIESP/FATECPB</a>.
 - 🎓 &nbsp; Graduado em **CIÊNCIAS ATUARIAIS** na <a href="https://www.ufpb.br/">UFPB</a>.
-- 💼 &nbsp; Trabalhando como **ANALISTA DE GESTÃO DE TI** no <a href="itau.com.br">ITAÚ</a>.
+- 💼 &nbsp; Trabalhando como **ANALISTA DE GESTÃO DE TI** no <a href="https://www.itau.com.br">ITAÚ</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **JAVA** e **COBOL**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
